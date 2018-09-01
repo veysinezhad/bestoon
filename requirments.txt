@@ -1,0 +1,10 @@
+certifi==2018.4.16
+click==6.7
+Django==2.0.5
+Pillow==5.2.0
+pyparsing==2.2.0
+pytz==2018.5
+svgwrite==1.1.12
+Tree==0.2.4
+virtualenv==16.0.0
+wincertstore==0.2
